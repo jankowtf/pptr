@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+inst/doc
+tests/tessthat/data/temp
+packrat/lib*/

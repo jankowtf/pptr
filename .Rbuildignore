@@ -1,0 +1,11 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+^\.Rprofile$
+^inst/examples
+^lib
+^packrat/
+^revdep$
+^tests
+^vignettes/.*\.jar$
+
